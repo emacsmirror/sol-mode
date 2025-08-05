@@ -240,7 +240,7 @@
      (((comment) @font-lock-preprocessor-face)
       (:match "\\`/// @solidity" @font-lock-preprocessor-face))
      (((comment) @font-lock-doc-face)
-      (:match "\\`\\(?:///[^/]\\|/\\*\\*[^*]\\)" @font-lock-doc-face))
+      (:match "\\`\\(?:///[^/]\\|///\\'\\|/\\*\\*[^*]\\)" @font-lock-doc-face))
      (comment) @font-lock-comment-face))
   "Font-lock settings for `sol-mode' buffers.")
 
