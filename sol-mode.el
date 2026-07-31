@@ -3,7 +3,7 @@
 ;; Copyright © 2025 Nicholas Rodrigues Lordello <n@lordello.net>
 
 ;; Author:   Nicholas Rodrigues Lordello <n@lordello.net>
-;; URL:      https://codeberg.org/nlordell/sol-mode
+;; URL:      https://github.com/nlordell/sol-mode
 ;; Keywords: solidity languages
 ;; Version:  0.1.0
 ;; Package-Requires: ((emacs "30.1"))
